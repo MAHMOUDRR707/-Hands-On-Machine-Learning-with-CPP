@@ -1,7 +1,8 @@
 # Hands-On-Machine-Learning-with-C++
 
-<a href="https://www.packtpub.com/data/hands-on-machine-learning-with-c?utm_source=github&utm_medium=repository&utm_campaign=9781789955330"><img src="https://static.packt-cdn.com/products/9781789955330/cover/9781789955330-original.png" alt="Hands-On Machine Learning with C++" height="256px" align="right"></a>
+[Hands-On Machine Learning with C++](https://www.packtpub.com/data/hands-on-machine-learning-with-c?utm_source=github&utm_medium=repository&utm_campaign=9781789955330)
 
+![Hands-On Machine Learning with C++](https://static.packt-cdn.com/products/9781789955330/cover/9781789955330-original.png)
 This is the code repository for [Hands-On Machine Learning with C++](https://www.packtpub.com/data/hands-on-machine-learning-with-c?utm_source=github&utm_medium=repository&utm_campaign=9781789955330), published by Packt.
 
 **Build, train, and deploy end-to-end machine learning and deep learning pipelines**
